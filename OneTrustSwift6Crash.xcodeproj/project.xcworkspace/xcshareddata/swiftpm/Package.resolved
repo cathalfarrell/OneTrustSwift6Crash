@@ -1,0 +1,15 @@
+{
+  "originHash" : "f146c415dfdf506e6bb269885733f7223d40600901a46f63f3f1d2d876691377",
+  "pins" : [
+    {
+      "identity" : "otpublishersheadlesssdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zentrust/OTPublishersHeadlessSDK",
+      "state" : {
+        "revision" : "5e98011ee357050c2922593c877aa6c6228417cb",
+        "version" : "202408.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
